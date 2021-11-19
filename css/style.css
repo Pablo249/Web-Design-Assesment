@@ -1,0 +1,18 @@
+.bcolour{background-color: #0d6efd
+    ; 
+
+}
+.bcolorgreen{background-color: rgb(0,128,0)
+
+}
+body{background-image:url(../Images/download.jpg) ;
+background-repeat:no-repeat ;
+background-size: cover;
+}
+.my-5{
+    margin-top:0vmax;
+    margin-bottom:0vmax;
+    margin-left: 0vmax;
+    margin-right: 0vmax;
+    }
+    
